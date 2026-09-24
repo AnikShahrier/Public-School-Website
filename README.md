@@ -1,6 +1,6 @@
-# Sabuj Kanan School And College — React Remake
+# Public School website template
 
-React + Vite version of the static site remake (converted from the plain HTML/CSS/JS version).
+
 
 ## Run it
 
